@@ -1,7 +1,7 @@
 ## Olá! Eu sou Alex Rufino 👋
 
  <div>
-  <a href="https://github.com/wendelcampos">
+  <a href="https://github.com/arufinosouza">
   <div>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arufinosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arufinosouza&layout=compact&langs_count=16&theme=dracula"/>
@@ -11,9 +11,10 @@
 <hr/>
 
 <div style="display: inline_block;", margin="auto"><br>
-  <img align="center" alt="HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
-  <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="arufinosouza-HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="arufinosouza-CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
+  <img align="center" alt="arufinosouza-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="arufinosouza-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="oracle" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> 
   <img align="center" alt="Sql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />    
 </div>
